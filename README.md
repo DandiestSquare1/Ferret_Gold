@@ -7,6 +7,8 @@ https://www.freecodecamp.org/
  - People who talk about math or other specific skills are not professional programmers and talk out of their asses.
  - Most coders don't need advanced math but if they need it for a project, they have the ability to learn quickly and deal with the task at hand
 
+https://www.youtube.com/watch?v=WKuNWrxuJ9g
+
 http://www.bridging-the-gap.com/business-analyst-salary/
 
 http://www.bridging-the-gap.com/im-exploring-a-business-analyst-career/
