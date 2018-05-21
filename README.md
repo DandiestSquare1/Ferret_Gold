@@ -2,10 +2,10 @@
 https://www.freecodecamp.org/
 
 ## Programming is the art of learning
- - It's not about knowing X or Y.
- - Specific technologies and concepts are picked up whenever the current task requires them.
+ - It's not about knowing X or Y
+ - Specific technologies and concepts are picked up whenever the current task/project requires them
  - People who talk about math or other specific skills are not professional programmers and talk out of their asses.
- - Most of us don't need advanced math but if we need it, we have the ability to learn quickly and deal with the task at hand.﻿
+ - Most coders don't need advanced math but if they need it for a project, they have the ability to learn quickly and deal with the task at hand
 
 http://www.bridging-the-gap.com/business-analyst-salary/
 
