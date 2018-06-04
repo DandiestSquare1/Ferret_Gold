@@ -1,4 +1,6 @@
 # links
+https://jajoosam.tech/code/
+
 https://www.freecodecamp.org/
 
 ## Programming is the art of learning
