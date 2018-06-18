@@ -8,9 +8,9 @@ https://www.udemy.com/the-web-developer-bootcamp/
 
 https://hackernoon.com/what-is-a-full-stack-developer-in-2018-and-how-to-become-one-ca82e8906c87
 
-https://medium.freecodecamp.org/lessons-learned-from-deploying-my-first-full-stack-web-application-34f94ec0a286
-
 https://hackernoon.com/simple-react-development-in-2017-113bd563691f
+
+https://medium.freecodecamp.org/lessons-learned-from-deploying-my-first-full-stack-web-application-34f94ec0a286
 
 https://medium.com/@omgwtfmarc/deploying-create-react-app-to-s3-or-cloudfront-48dae4ce0af
 
