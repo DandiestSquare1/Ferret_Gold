@@ -2,6 +2,8 @@
 
 https://hackernoon.com/no-zero-days-my-path-from-code-newbie-to-full-stack-developer-in-12-months-214122a8948f
 
+https://dev.to/tonymastrorio/escaping-tutorial-purgatory-as-a-new-developer-1kf3
+
 https://www.udemy.com/the-web-developer-bootcamp/
 
 https://hackernoon.com/what-is-a-full-stack-developer-in-2018-and-how-to-become-one-ca82e8906c87
