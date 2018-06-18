@@ -1,7 +1,14 @@
 # links
-https://jajoosam.tech/code/
+https://hackernoon.com/simple-react-development-in-2017-113bd563691f
+
+https://medium.com/@omgwtfmarc/deploying-create-react-app-to-s3-or-cloudfront-48dae4ce0af
+
+https://egghead.io/
 
 https://www.freecodecamp.org/
+
+https://stackblitz.com/
+
 
 ## Programming is the art of learning
  - It's not about knowing X or Y
