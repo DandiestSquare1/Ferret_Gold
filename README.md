@@ -20,6 +20,7 @@ https://www.codecademy.com/
 
 https://stackblitz.com/
 
+https://medium.freecodecamp.org/what-can-you-do-with-python-the-3-main-applications-518db9a68a78
 
 ## Programming is the art of learning
  - It's not about knowing X or Y
